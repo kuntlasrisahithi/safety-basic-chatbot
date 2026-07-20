@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Safety Assistant (Self-Hosted, No API)</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>🛠️ Local Safety Assistant</h1>
+    </header>
+
+    <div id="chat"></div>
+
+    <div class="chips">
+      {% for cat in categories %}
+        <div class="chip" onclick="askChip('{{ cat }}')">{{ cat }}</div>
+      {% endfor %}
+    </div>
+
+    <form id="form">
+      <input
+        type="text"
+        id="query"
+        placeholder="Ask about PPE, Fire Safety, First Aid..."
+        autocomplete="off"
+      />
+      <button type="submit">Ask</button>
+    </form>
+
+    <footer>
+      Everything here is computed locally by app.py from data/safety.csv - no external network calls.
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

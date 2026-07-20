@@ -1,0 +1,151 @@
+id,category,keywords,question,answer
+1,PPE,"helmet,gloves,safety shoes,safety glasses,ppe",What is PPE?,PPE (Personal Protective Equipment) includes equipment worn to reduce exposure to workplace hazards.
+2,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,important",Why is PPE important?,PPE reduces the risk of injuries by protecting workers from workplace hazards.
+3,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,worn",When should PPE be worn?,Wear PPE whenever required by the task or risk assessment.
+4,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,stored",Where should PPE be stored?,"Store PPE in a clean, dry, designated location."
+5,PPE,"helmet,gloves,safety shoes,safety glasses,provides,ppe",Who provides PPE?,The company provides the required PPE for authorized employees.
+6,PPE,"helmet,gloves,safety shoes,safety glasses,inspect,ppe",How do I inspect PPE?,Inspect PPE before every use.
+7,PPE,"helmet,gloves,safety shoes,safety glasses,share,ppe",Can I share PPE?,Only if designed for shared use and sanitized.
+8,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,in,production,areas",Which PPE is required in production areas?,"Helmet, gloves, safety shoes, safety glasses and high-visibility vest."
+9,PPE,"helmet,gloves,safety shoes,safety glasses,if,ppe,damaged",What should I do if PPE is damaged?,Stop using it and replace it.
+10,PPE,"helmet,gloves,safety shoes,safety glasses,consequences,not,wearing,ppe",What are the consequences of not wearing PPE?,Higher injury risk and policy violations.
+11,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,replaced",When should PPE be replaced?,When damaged or expired.
+12,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,cleaned",Why should PPE be cleaned?,To maintain effectiveness.
+13,PPE,"helmet,gloves,safety shoes,safety glasses,contact,about,ppe",Who should I contact about PPE?,Your supervisor or safety department.
+14,PPE,"helmet,gloves,safety shoes,safety glasses,ppe,fit",How should PPE fit?,It should fit correctly and comfortably.
+15,PPE,"helmet,gloves,safety shoes,safety glasses,visitors,require,ppe",Can visitors require PPE?,"Yes, visitors must wear required PPE."
+16,Fire Safety,"fire,extinguisher,alarm,safety",What is Fire Safety?,Fire Safety helps maintain a safe workplace.
+17,Fire Safety,"fire,extinguisher,alarm,safety,important",Why is Fire Safety important?,It reduces workplace risks.
+18,Fire Safety,"fire,extinguisher,alarm,safety,procedures,followed",When should Fire Safety procedures be followed?,Whenever the task requires them.
+19,Fire Safety,"fire,extinguisher,alarm,find,safety,procedures",Where can I find Fire Safety procedures?,In company safety manuals.
+20,Fire Safety,"fire,extinguisher,alarm,responsible,for,safety",Who is responsible for Fire Safety?,All employees share responsibility.
+21,Fire Safety,"fire,extinguisher,alarm,report,safety,issue",How do I report a Fire Safety issue?,Inform your supervisor.
+22,Fire Safety,"fire,extinguisher,alarm,ignore,safety,requirements",Can I ignore Fire Safety requirements?,No. Compliance is mandatory.
+23,Fire Safety,"fire,extinguisher,alarm,hazards,safety",Which hazards are related to Fire Safety?,Hazards depend on the task.
+24,Fire Safety,"fire,extinguisher,alarm,training,for,safety",What training is required for Fire Safety?,Training is provided before related work.
+25,Fire Safety,"fire,extinguisher,alarm,safety,emergency",What should I do during a Fire Safety emergency?,Follow company emergency procedures.
+26,Fire Safety,"fire,extinguisher,alarm,stop,work,safety",When should I stop work related to Fire Safety?,Stop if conditions become unsafe.
+27,Fire Safety,"fire,extinguisher,alarm,approves,safety,work",Who approves Fire Safety work?,Authorized personnel.
+28,Fire Safety,"fire,extinguisher,alarm,improve,safety",How can I improve Fire Safety?,Follow procedures and report hazards.
+29,Fire Safety,"fire,extinguisher,alarm,get,help,with,safety",Where can I get help with Fire Safety?,Contact your supervisor or safety department.
+30,Fire Safety,"fire,extinguisher,alarm,incidents,safety,reported",Why should incidents related to Fire Safety be reported?,To prevent future incidents.
+31,First Aid,"bandage,injury,medical,first,aid",What is First Aid?,First aid is immediate care before professional medical help arrives.
+32,First Aid,"bandage,injury,medical,first,aid,important",Why is First Aid important?,It preserves life and prevents conditions from worsening.
+33,First Aid,"bandage,injury,medical,first,aid,given",When should First Aid be given?,Immediately after an injury if it is safe.
+34,First Aid,"bandage,injury,medical,first,aid,kits,located",Where are first aid kits located?,In designated workplace locations.
+35,First Aid,"bandage,injury,medical,trained,first,aiders",Who are the trained first aiders?,Listed on workplace safety notice boards.
+36,First Aid,"bandage,injury,medical,report,first,aid,incident",How do I report a first aid incident?,Inform your supervisor and complete an incident report.
+37,First Aid,"bandage,injury,medical,anyone,provide,first,aid",Can anyone provide first aid?,Only within their level of training.
+38,First Aid,"bandage,injury,medical,after,minor",What should I do after a minor injury?,Apply first aid and report it.
+39,First Aid,"bandage,injury,medical,first,aid,kit,contain",What should a first aid kit contain?,"Bandages, gloves, dressings and antiseptic."
+40,First Aid,"bandage,injury,medical,call,emergency,services",When should I call emergency medical services?,For serious or life-threatening injuries.
+41,First Aid,"bandage,injury,medical,injuries,reported",Why should injuries be reported?,To ensure treatment and improve safety.
+42,First Aid,"bandage,injury,medical,find,emergency,contact,numbers",Where can I find emergency contact numbers?,On workplace notice boards.
+43,First Aid,"bandage,injury,medical,restocks,first,aid,kits",Who restocks first aid kits?,Assigned safety personnel.
+44,First Aid,"bandage,injury,medical,often,first,aid,kits,inspected",How often are first aid kits inspected?,Regularly according to company procedures.
+45,First Aid,"bandage,injury,medical,expired,first,aid,supplies,used",Can expired first aid supplies be used?,No.
+46,Electrical Safety,"electricity,shock,power,electrical,safety",What is Electrical Safety?,Electrical Safety helps maintain a safe workplace.
+47,Electrical Safety,"electricity,shock,power,electrical,safety,important",Why is Electrical Safety important?,It reduces workplace risks.
+48,Electrical Safety,"electricity,shock,power,electrical,safety,procedures,followed",When should Electrical Safety procedures be followed?,Whenever the task requires them.
+49,Electrical Safety,"electricity,shock,power,find,electrical,safety,procedures",Where can I find Electrical Safety procedures?,In company safety manuals.
+50,Electrical Safety,"electricity,shock,power,responsible,for,electrical,safety",Who is responsible for Electrical Safety?,All employees share responsibility.
+51,Electrical Safety,"electricity,shock,power,report,electrical,safety,issue",How do I report a Electrical Safety issue?,Inform your supervisor.
+52,Electrical Safety,"electricity,shock,power,ignore,electrical,safety,requirements",Can I ignore Electrical Safety requirements?,No. Compliance is mandatory.
+53,Electrical Safety,"electricity,shock,power,hazards,electrical,safety",Which hazards are related to Electrical Safety?,Hazards depend on the task.
+54,Electrical Safety,"electricity,shock,power,training,for,electrical,safety",What training is required for Electrical Safety?,Training is provided before related work.
+55,Electrical Safety,"electricity,shock,power,electrical,safety,emergency",What should I do during a Electrical Safety emergency?,Follow company emergency procedures.
+56,Electrical Safety,"electricity,shock,power,stop,work,electrical,safety",When should I stop work related to Electrical Safety?,Stop if conditions become unsafe.
+57,Electrical Safety,"electricity,shock,power,approves,electrical,safety,work",Who approves Electrical Safety work?,Authorized personnel.
+58,Electrical Safety,"electricity,shock,power,improve,electrical,safety",How can I improve Electrical Safety?,Follow procedures and report hazards.
+59,Electrical Safety,"electricity,shock,power,get,help,with,electrical,safety",Where can I get help with Electrical Safety?,Contact your supervisor or safety department.
+60,Electrical Safety,"electricity,shock,power,incidents,electrical,safety,reported",Why should incidents related to Electrical Safety be reported?,To prevent future incidents.
+61,LOTO,"lockout,tagout,isolation,loto",What is LOTO?,LOTO helps maintain a safe workplace.
+62,LOTO,"lockout,tagout,isolation,loto,important",Why is LOTO important?,It reduces workplace risks.
+63,LOTO,"lockout,tagout,isolation,loto,procedures,followed",When should LOTO procedures be followed?,Whenever the task requires them.
+64,LOTO,"lockout,tagout,isolation,find,loto,procedures",Where can I find LOTO procedures?,In company safety manuals.
+65,LOTO,"lockout,tagout,isolation,responsible,for,loto",Who is responsible for LOTO?,All employees share responsibility.
+66,LOTO,"lockout,tagout,isolation,report,loto,issue",How do I report a LOTO issue?,Inform your supervisor.
+67,LOTO,"lockout,tagout,isolation,ignore,loto,requirements",Can I ignore LOTO requirements?,No. Compliance is mandatory.
+68,LOTO,"lockout,tagout,isolation,hazards,loto",Which hazards are related to LOTO?,Hazards depend on the task.
+69,LOTO,"lockout,tagout,isolation,training,for,loto",What training is required for LOTO?,Training is provided before related work.
+70,LOTO,"lockout,tagout,isolation,loto,emergency",What should I do during a LOTO emergency?,Follow company emergency procedures.
+71,LOTO,"lockout,tagout,isolation,stop,work,loto",When should I stop work related to LOTO?,Stop if conditions become unsafe.
+72,LOTO,"lockout,tagout,isolation,approves,loto,work",Who approves LOTO work?,Authorized personnel.
+73,LOTO,"lockout,tagout,isolation,improve,loto",How can I improve LOTO?,Follow procedures and report hazards.
+74,LOTO,"lockout,tagout,isolation,get,help,with,loto",Where can I get help with LOTO?,Contact your supervisor or safety department.
+75,LOTO,"lockout,tagout,isolation,incidents,loto,reported",Why should incidents related to LOTO be reported?,To prevent future incidents.
+76,Chemical Safety,"chemical,sds,spill,safety",What is Chemical Safety?,Chemical Safety helps maintain a safe workplace.
+77,Chemical Safety,"chemical,sds,spill,safety,important",Why is Chemical Safety important?,It reduces workplace risks.
+78,Chemical Safety,"chemical,sds,spill,safety,procedures,followed",When should Chemical Safety procedures be followed?,Whenever the task requires them.
+79,Chemical Safety,"chemical,sds,spill,find,safety,procedures",Where can I find Chemical Safety procedures?,In company safety manuals.
+80,Chemical Safety,"chemical,sds,spill,responsible,for,safety",Who is responsible for Chemical Safety?,All employees share responsibility.
+81,Chemical Safety,"chemical,sds,spill,report,safety,issue",How do I report a Chemical Safety issue?,Inform your supervisor.
+82,Chemical Safety,"chemical,sds,spill,ignore,safety,requirements",Can I ignore Chemical Safety requirements?,No. Compliance is mandatory.
+83,Chemical Safety,"chemical,sds,spill,hazards,safety",Which hazards are related to Chemical Safety?,Hazards depend on the task.
+84,Chemical Safety,"chemical,sds,spill,training,for,safety",What training is required for Chemical Safety?,Training is provided before related work.
+85,Chemical Safety,"chemical,sds,spill,safety,emergency",What should I do during a Chemical Safety emergency?,Follow company emergency procedures.
+86,Chemical Safety,"chemical,sds,spill,stop,work,safety",When should I stop work related to Chemical Safety?,Stop if conditions become unsafe.
+87,Chemical Safety,"chemical,sds,spill,approves,safety,work",Who approves Chemical Safety work?,Authorized personnel.
+88,Chemical Safety,"chemical,sds,spill,improve,safety",How can I improve Chemical Safety?,Follow procedures and report hazards.
+89,Chemical Safety,"chemical,sds,spill,get,help,with,safety",Where can I get help with Chemical Safety?,Contact your supervisor or safety department.
+90,Chemical Safety,"chemical,sds,spill,incidents,safety,reported",Why should incidents related to Chemical Safety be reported?,To prevent future incidents.
+91,Permit to Work,"ptw,permit,work permit,work",What is Permit to Work?,Permit to Work helps maintain a safe workplace.
+92,Permit to Work,"ptw,permit,work permit,work,important",Why is Permit to Work important?,It reduces workplace risks.
+93,Permit to Work,"ptw,permit,work permit,work,procedures,followed",When should Permit to Work procedures be followed?,Whenever the task requires them.
+94,Permit to Work,"ptw,permit,work permit,find,work,procedures",Where can I find Permit to Work procedures?,In company safety manuals.
+95,Permit to Work,"ptw,permit,work permit,responsible,for,work",Who is responsible for Permit to Work?,All employees share responsibility.
+96,Permit to Work,"ptw,permit,work permit,report,work,issue",How do I report a Permit to Work issue?,Inform your supervisor.
+97,Permit to Work,"ptw,permit,work permit,ignore,work,requirements",Can I ignore Permit to Work requirements?,No. Compliance is mandatory.
+98,Permit to Work,"ptw,permit,work permit,hazards,work",Which hazards are related to Permit to Work?,Hazards depend on the task.
+99,Permit to Work,"ptw,permit,work permit,training,for,work",What training is required for Permit to Work?,Training is provided before related work.
+100,Permit to Work,"ptw,permit,work permit,work,emergency",What should I do during a Permit to Work emergency?,Follow company emergency procedures.
+101,Permit to Work,"ptw,permit,work permit,stop,work",When should I stop work related to Permit to Work?,Stop if conditions become unsafe.
+102,Permit to Work,"ptw,permit,work permit,approves,work",Who approves Permit to Work work?,Authorized personnel.
+103,Permit to Work,"ptw,permit,work permit,improve,work",How can I improve Permit to Work?,Follow procedures and report hazards.
+104,Permit to Work,"ptw,permit,work permit,get,help,with,work",Where can I get help with Permit to Work?,Contact your supervisor or safety department.
+105,Permit to Work,"ptw,permit,work permit,incidents,work,reported",Why should incidents related to Permit to Work be reported?,To prevent future incidents.
+106,Emergency Response,"emergency,evacuation,response",What is Emergency Response?,Emergency Response helps maintain a safe workplace.
+107,Emergency Response,"emergency,evacuation,response,important",Why is Emergency Response important?,It reduces workplace risks.
+108,Emergency Response,"emergency,evacuation,response,procedures,followed",When should Emergency Response procedures be followed?,Whenever the task requires them.
+109,Emergency Response,"emergency,evacuation,find,response,procedures",Where can I find Emergency Response procedures?,In company safety manuals.
+110,Emergency Response,"emergency,evacuation,responsible,for,response",Who is responsible for Emergency Response?,All employees share responsibility.
+111,Emergency Response,"emergency,evacuation,report,response,issue",How do I report a Emergency Response issue?,Inform your supervisor.
+112,Emergency Response,"emergency,evacuation,ignore,response,requirements",Can I ignore Emergency Response requirements?,No. Compliance is mandatory.
+113,Emergency Response,"emergency,evacuation,hazards,response",Which hazards are related to Emergency Response?,Hazards depend on the task.
+114,Emergency Response,"emergency,evacuation,training,for,response",What training is required for Emergency Response?,Training is provided before related work.
+115,Emergency Response,"emergency,evacuation,response",What should I do during a Emergency Response emergency?,Follow company emergency procedures.
+116,Emergency Response,"emergency,evacuation,stop,work,response",When should I stop work related to Emergency Response?,Stop if conditions become unsafe.
+117,Emergency Response,"emergency,evacuation,approves,response,work",Who approves Emergency Response work?,Authorized personnel.
+118,Emergency Response,"emergency,evacuation,improve,response",How can I improve Emergency Response?,Follow procedures and report hazards.
+119,Emergency Response,"emergency,evacuation,get,help,with,response",Where can I get help with Emergency Response?,Contact your supervisor or safety department.
+120,Emergency Response,"emergency,evacuation,incidents,response,reported",Why should incidents related to Emergency Response be reported?,To prevent future incidents.
+121,Incident Reporting,"incident,report,accident,reporting",What is Incident Reporting?,Incident Reporting helps maintain a safe workplace.
+122,Incident Reporting,"incident,report,accident,reporting,important",Why is Incident Reporting important?,It reduces workplace risks.
+123,Incident Reporting,"incident,report,accident,reporting,procedures,followed",When should Incident Reporting procedures be followed?,Whenever the task requires them.
+124,Incident Reporting,"incident,report,accident,find,reporting,procedures",Where can I find Incident Reporting procedures?,In company safety manuals.
+125,Incident Reporting,"incident,report,accident,responsible,for,reporting",Who is responsible for Incident Reporting?,All employees share responsibility.
+126,Incident Reporting,"incident,report,accident,reporting,issue",How do I report a Incident Reporting issue?,Inform your supervisor.
+127,Incident Reporting,"incident,report,accident,ignore,reporting,requirements",Can I ignore Incident Reporting requirements?,No. Compliance is mandatory.
+128,Incident Reporting,"incident,report,accident,hazards,reporting",Which hazards are related to Incident Reporting?,Hazards depend on the task.
+129,Incident Reporting,"incident,report,accident,training,for,reporting",What training is required for Incident Reporting?,Training is provided before related work.
+130,Incident Reporting,"incident,report,accident,reporting,emergency",What should I do during a Incident Reporting emergency?,Follow company emergency procedures.
+131,Incident Reporting,"incident,report,accident,stop,work,reporting",When should I stop work related to Incident Reporting?,Stop if conditions become unsafe.
+132,Incident Reporting,"incident,report,accident,approves,reporting,work",Who approves Incident Reporting work?,Authorized personnel.
+133,Incident Reporting,"incident,report,accident,improve,reporting",How can I improve Incident Reporting?,Follow procedures and report hazards.
+134,Incident Reporting,"incident,report,accident,get,help,with,reporting",Where can I get help with Incident Reporting?,Contact your supervisor or safety department.
+135,Incident Reporting,"incident,report,accident,incidents,reporting,reported",Why should incidents related to Incident Reporting be reported?,To prevent future incidents.
+136,Workplace Safety,"safety,hazard,risk,workplace",What is Workplace Safety?,Workplace Safety helps maintain a safe workplace.
+137,Workplace Safety,"safety,hazard,risk,workplace,important",Why is Workplace Safety important?,It reduces workplace risks.
+138,Workplace Safety,"safety,hazard,risk,workplace,procedures,followed",When should Workplace Safety procedures be followed?,Whenever the task requires them.
+139,Workplace Safety,"safety,hazard,risk,find,workplace,procedures",Where can I find Workplace Safety procedures?,In company safety manuals.
+140,Workplace Safety,"safety,hazard,risk,responsible,for,workplace",Who is responsible for Workplace Safety?,All employees share responsibility.
+141,Workplace Safety,"safety,hazard,risk,report,workplace,issue",How do I report a Workplace Safety issue?,Inform your supervisor.
+142,Workplace Safety,"safety,hazard,risk,ignore,workplace,requirements",Can I ignore Workplace Safety requirements?,No. Compliance is mandatory.
+143,Workplace Safety,"safety,hazard,risk,hazards,workplace",Which hazards are related to Workplace Safety?,Hazards depend on the task.
+144,Workplace Safety,"safety,hazard,risk,training,for,workplace",What training is required for Workplace Safety?,Training is provided before related work.
+145,Workplace Safety,"safety,hazard,risk,workplace,emergency",What should I do during a Workplace Safety emergency?,Follow company emergency procedures.
+146,Workplace Safety,"safety,hazard,risk,stop,work,workplace",When should I stop work related to Workplace Safety?,Stop if conditions become unsafe.
+147,Workplace Safety,"safety,hazard,risk,approves,workplace,work",Who approves Workplace Safety work?,Authorized personnel.
+148,Workplace Safety,"safety,hazard,risk,improve,workplace",How can I improve Workplace Safety?,Follow procedures and report hazards.
+149,Workplace Safety,"safety,hazard,risk,get,help,with,workplace",Where can I get help with Workplace Safety?,Contact your supervisor or safety department.
+150,Workplace Safety,"safety,hazard,risk,incidents,workplace,reported",Why should incidents related to Workplace Safety be reported?,To prevent future incidents.
